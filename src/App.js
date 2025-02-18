@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Routes>
        
-        <Route path="/flyer-upload" element={<FlyerUpload />} />
+        <Route path="/" element={<FlyerUpload />} />
 
       </Routes>
     </BrowserRouter>
